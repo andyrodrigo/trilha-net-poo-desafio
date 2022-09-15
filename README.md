@@ -2,7 +2,7 @@
 
 ## Objetivo deste Projeto:
 >Ele foi criado como um desafio de projeto para o **Bootcamp Pottencial .NET Developer** da plataforma DIO ( *O terceiro deles* ).
-O foco é utilizar os aprendizados de C# e .NET do módulo "Orientação a Obejetos com C#": Abstração, Encapsulamento, Herança, Polimorfismo, Classe Abstrata e Interface.
+O foco é utilizar os aprendizados de C# e .NET do módulo "Orientação a Objetos com C#": Abstração, Encapsulamento, Herança, Polimorfismo, Classe Abstrata e Interface.
 
 ## Contexto
 >Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
